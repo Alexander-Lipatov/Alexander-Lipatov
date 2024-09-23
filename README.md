@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Lipatov</h1>
-<h3 align="center">I am python developer from Russia</h3>
+<h3 align="center">I am Python developer from Russia</h3>
 
 <div>
 <h3 align="left">Обо мне:</h3>
