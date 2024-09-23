@@ -91,9 +91,9 @@
 </p>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
 </div>
