@@ -1,3 +1,11 @@
+
+<style>
+    a{
+        text-decoration: none;
+    }
+</style>
+
+
 <h1 align="center">Hi 👋, I'm Alexander Lipatov</h1>
 <h3 align="center">I am python developer from Russia</h3>
 
