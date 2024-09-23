@@ -1,10 +1,3 @@
-
-<style>
-    p a{
-        text-decoration: none;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Alexander Lipatov</h1>
 <h3 align="center">I am python developer from Russia</h3>
 
@@ -33,9 +26,7 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" height="40" />
     </a>
-    <a style="
-    text-decoration: none;
-" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
