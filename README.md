@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alexander Lipatov</h1>
 <h3 align="center">I am python developer from Russia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<div>
+<h3 align="left">Обо мне:</h3>
 <p align="left">
+    Я разработчик с опытом создания полноценных веб-приложений. Мои основные навыки включают Python, TypeScript, React, и работу с Firebase и PostgreSQL. Я люблю решать сложные задачи, внедряя современные технологии и практики. Работая над проектами, я уделяю внимание чистой архитектуре и поддерживаемому коду, что позволяет разрабатывать масштабируемые и функциональные решения.
 </p>
+<hr>
+<h3 align="left">About me:</h3>
+<p align="left">
+    I am a developer with experience in creating full-fledged web applications. My core skills include Python, TypeScript, React, and working with Firebase and PostgreSQL. I like to solve complex problems by implementing modern technologies and practices. When working on projects, I pay attention to clean architecture and supported code, which allows me to develop scalable and functional solutions.
+</p>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,3 +89,11 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexander-lipatov&theme=ayu_mirage" alt="GitHub Profile Summary">
+</div>
