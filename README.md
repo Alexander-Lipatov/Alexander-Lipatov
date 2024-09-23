@@ -1,6 +1,6 @@
 
 <style>
-    a{
+    p a{
         text-decoration: none;
     }
 </style>
